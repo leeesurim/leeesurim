@@ -1,4 +1,14 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
+
+![header](https://capsule-render.vercel.app/api?type=Wave&color=0:98ff98,100:a7f432&height=300&section=header&text=Surim's%20GitHub&fontSize=80&fontColor=138808&fontAlignY=40)
+
+<div align='center'>
+	<!-- 여기에 내용을!! -->
+
+</div>
+
+
+<!-- ![footer](https://capsule-render.vercel.app/api?type=Wave&color=0:98ff98,100:a7f432&height=100&section=footer) -->
 
 <!--
 **leeesurim/leeesurim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
