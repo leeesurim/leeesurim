@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
 
-![header](https://capsule-render.vercel.app/api?type=Wave&color=0:bbdefb,100:99ccff&height=250&section=header&text=Surim's%20GitHub&fontSize=70&fontColor=0387ee&fontAlignY=35&)
+![header](https://capsule-render.vercel.app/api?type=Rect&color=gradient&customColorList=4&height=150&section=header&text=Surim's%20GitHub&fontSize=70&fontColor=0387ee&)
 
 <div align='center'>
 	<!-- 여기에 내용을!! -->
